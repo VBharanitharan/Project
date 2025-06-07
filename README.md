@@ -10,9 +10,6 @@ A sleek and responsive weather forecasting web application built using **React**
 - 🔄 Real-time data fetched via API
 - 📱 Responsive design for all screen sizes
 
-## 🚀 Demo
-
-![Screenshot](./weatherApp.png)
 
 ## 🛠️ Tech Stack
 
